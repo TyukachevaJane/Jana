@@ -13,4 +13,4 @@ int main() {
 		printf("%d ", arr[N - i - 1]);
 	}
 	return 0;
-}
+Hi
